@@ -9,9 +9,8 @@ location: "Buenos Aires, Argentina"
 ---
 
 Invited graduate seminar exploring how digital media, platforms, and technologies reshape intimacy, sexual practices, and identity. Draws on scholarship in media studies, sexuality studies, and the sociology of technology, with a focus on Argentina in comparative perspective.
-Sexualidades en la era digital
 
-Syllabus (in Spanish)
+*Syllabus (in Spanish)*
 
 **Presentación:**
 Este seminario explora las transformaciones de la sexualidad en el marco de la cultura digital, analizando cómo el amor, el deseo, las identidades y las prácticas eróticas se configuran en entornos mediados por plataformas tecnológicas. A partir de aportes de la teoría social contemporánea se problematizan las tensiones entre intimidad, mercado, placer, afectos y política cultural.
