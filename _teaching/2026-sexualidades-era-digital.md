@@ -12,6 +12,8 @@ Invited graduate seminar exploring how digital media, platforms, and technologie
 
 *Syllabus (in Spanish)*
 
+**SEXUALIDADES EN LA ERA DIGITAL**
+
 **Presentación:**
 Este seminario explora las transformaciones de la sexualidad en el marco de la cultura digital, analizando cómo el amor, el deseo, las identidades y las prácticas eróticas se configuran en entornos mediados por plataformas tecnológicas. A partir de aportes de la teoría social contemporánea se problematizan las tensiones entre intimidad, mercado, placer, afectos y política cultural.
 El curso propone situar la sexualidad como un fenómeno histórico y mediado, entendiendo que las tecnologías no solo canalizan deseos y vínculos, sino que los modelan, clasifican y mercantilizan. Desde las formas de intimidad propias de la modernidad hasta las experiencias digitales actuales —aplicaciones de citas, redes sociales, pornografía online o plataformas de trabajo sexual—, se examinará cómo los regímenes tecnoafectivos dan forma a la manera en que nos vinculamos, nos mostramos y nos entendemos como sujetos.
