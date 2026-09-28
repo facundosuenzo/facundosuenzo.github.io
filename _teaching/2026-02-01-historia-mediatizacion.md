@@ -10,9 +10,12 @@ location: "Buenos Aires, Argentina"
 
 Undergraduate course tracing how societies have transformed with —and through— the emergence of successive media technologies, from print and broadcasting to digital platforms. Combines historical sociology of media with contemporary debates on datafication and platformization.
 
-Syllabus (in Spanish)
+*Syllabus (in Spanish)*
+
+**HISTORIA DE LA MEDIATIZACIÓN**
 
 **Contenidos:**
+
 La mediatización como dimensión antropológica. El surgimiento de la semiosis humana. La escritura y sus consecuencias cognitivas, económicas, políticas y sociales. Los soportes de la escritura. El pasaje del rollo al códice. La emergencia de la imprenta. La prensa moderna. Fotografía, fonografía, cine, radio y televisión. La mediatización contemporánea. El cuerpo y las pantallas. Digitalización y convergencia tecnológica. La mediatización móvil. Las redes y la configuración de las relaciones vinculares. La presencialidad expandida y el contexto físico-virtual.
 
 **PROGRAMA**
