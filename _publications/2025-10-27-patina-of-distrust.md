@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/2025-patina-of-distrust
 excerpt: 'The dynamics of news reception during the 2019 Argentine elections, and how distrust of the media can protect audiences from both misinformation and attempts to correct it.'
-date: 2025-27-10
+date: 2025-10-27
 venue: 'MIT Press'
 paperurl: 'https://mitpress.mit.edu/9780262551151/the-patina-of-distrust/'
 citation: 'Mitchelstein, E., Boczkowski, P., Wagner, M.C., & Suenzo, F. (2025). <i>The Patina of Distrust: What People Do with Misinformation</i>. MIT Press.'
