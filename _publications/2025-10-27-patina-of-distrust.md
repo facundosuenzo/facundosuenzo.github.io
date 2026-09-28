@@ -7,7 +7,6 @@ excerpt: 'The dynamics of news reception during the 2019 Argentine elections, an
 date: 2025-10-27
 venue: 'MIT Press'
 paperurl: 'https://mitpress.mit.edu/9780262551151/the-patina-of-distrust/'
-citation: 'Mitchelstein, E., Boczkowski, P., Wagner, M.C., & Suenzo, F. (2025). <i>The Patina of Distrust: What People Do with Misinformation</i>. MIT Press.'
 ---
 
 **Awards & Recognitions**
