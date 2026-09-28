@@ -9,6 +9,4 @@ venue: 'New Media & Society'
 paperurl: 'https://doi.org/10.1177/14614448241266782'
 ---
 
-Published in *New Media & Society*, 17(11), 6215–6232.
-
 **Award:** Top Student Paper Award, Communication and Technology Division, International Communication Association (ICA), 2024.
