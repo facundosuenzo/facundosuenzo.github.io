@@ -9,4 +9,4 @@ venue: 'Qualitative Sociology'
 paperurl: 'https://doi.org/10.1007/s11133-025-09632-x'
 ---
 
-Co-authored with Sino Esthappan (Assistant Professor, Hofstra University). 
+Co-authored with Sino Esthappan (Assistant Professor, Hofstra University), Published in Qualitative Sociology.
