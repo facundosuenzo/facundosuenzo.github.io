@@ -9,4 +9,4 @@ venue: 'International Journal of Communication'
 paperurl: 'https://ijoc.org/index.php/ijoc/article/view/25506/5231'
 ---
 
-Co-authored with Annika Pinch (Hamline University), Ignacio Fernández Cruz (Northwestern University), Calvin Liang, and Amy Ross-Arguedas (University of Oxford). Published in *International Journal of Communication*, 20, 523–544.
+Co-authored with Annika Pinch (Hamline University), Ignacio Fernández Cruz (Northwestern University), Calvin Liang, and Amy Ross-Arguedas (University of Oxford).
