@@ -1,56 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Facundo N. Suenzo"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a **Teaching Professor and Research Affiliate in the Department of Humanities at Universidad de San Andrés (Buenos Aires, Argentina)**, where I also direct the Humanities undergraduate program. I hold a PhD in Media, Technology, and Society from **Northwestern University**, an M.A. in Sociology of Culture from EIDAES-UNSAM, and a B.A. in Communication from UdeSA. I have been a Visiting Fellow at the **Hunt-Simes Institute of Sexuality Studies (University of Sydney)** and a Dissertation Fellow at the **Sexualities Project at Northwestern (SPAN)**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research sits at the intersection of **media studies, digital intimacy, the history of technology, and the sociology of sexuality**. I study how people build affective and sexual lives with —and against— the technologies of their time, with an empirical focus on Argentina and comparative work across the Americas. My doctoral dissertation, *Techno-Affective Ecologies: A Sociocultural History of Gay Sexuality in Post-Dictatorship Argentina*, won the **Best Dissertation Award** from ICA's Global Communication and Social Change Division and an Honorable Mention from LASA's Media, Communication & Culture Section.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am the co-author of ***The Patina of Distrust: What People Do with Misinformation*** (MIT Press, 2025), together with Eugenia Mitchelstein, Pablo J. Boczkowski, and María Celeste Wagner. The book has received the **Roderick P. Hart Outstanding Book Award** (NCA, Political Communication Division), the **AEJMC-Knudson Latin America Prize**, the **ASIS&T Best Information Science Book Award**, and honorable mentions from ICA and APSA, among other distinctions. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently developing a **book manuscript** based on my dissertation that traces how gay men in Argentina reshaped intimacy across five decades of technological, political, and cultural change —from the return of democracy in the 1980s to the current dating-app ecosystem. My work has appeared in *New Media & Society*, *Qualitative Sociology*, *Journalism Studies*, *International Journal of Communication*, *Journalism*, and *Cuadernos.Info*, among others.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I serve as **Secretary for the LGBTQ+ Division of the International Communication Association (ICA)**.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+---
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Soy **Profesor de Cátedra e Investigador Asociado del Departamento de Humanidades de la Universidad de San Andrés**, donde también dirijo la Licenciatura en Humanidades. Soy doctor en Medios, Tecnología y Sociedad por **Northwestern University**, magíster en Sociología de la Cultura por EIDAES-UNSAM y licenciado en Comunicación por UdeSA. He sido Visiting Fellow en el **Hunt-Simes Institute of Sexuality Studies** (Universidad de Sídney) y becario doctoral del **Sexualities Project at Northwestern (SPAN)**.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Mi investigación se ubica en la intersección entre los **estudios de medios, la intimidad digital, la historia de la tecnología y la sociología de la sexualidad**. Estudio cómo las personas construyen su vida afectiva y sexual con —y en tensión con— las tecnologías de su época, con foco empírico en la Argentina y trabajos comparativos con otros países de las Américas. Mi tesis doctoral, *Ecologías tecno-afectivas: una historia sociocultural de la sexualidad gay en la Argentina posdictatorial*, obtuvo el **Best Dissertation Award** de la División de Comunicación Global y Cambio Social de ICA y una mención honorífica de la Sección de Medios, Comunicación y Cultura de LASA.
 
-**Markdown generator**
+Soy coautor del libro ***The Patina of Distrust: What People Do with Misinformation*** (MIT Press, 2025), junto con Eugenia Mitchelstein, Pablo J. Boczkowski y María Celeste Wagner. El libro recibió el **Roderick P. Hart Outstanding Book Award** de la NCA, el **AEJMC-Knudson Latin America Prize**, el **ASIS&T Best Information Science Book Award** y menciones honoríficas de ICA y APSA, entre otras distinciones.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Actualmente estoy trabajando en un **libro** basado en mi tesis doctoral, que reconstruye cómo los varones gays en la Argentina transformaron sus prácticas íntimas a lo largo de cinco décadas de cambios tecnológicos, políticos y culturales —desde el retorno de la democracia en los años ochenta hasta el ecosistema actual de apps de citas. Mi trabajo ha sido publicado en *New Media & Society*, *Qualitative Sociology*, *Journalism Studies*, *International Journal of Communication*, *Journalism* y *Cuadernos.Info*, entre otros.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Actualmente me desempeño como **Secretario de la División LGBTQ+ de la International Communication Association (ICA)**.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
