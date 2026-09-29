@@ -17,12 +17,19 @@
 <!-- Custom: ancho máximo del contenido para pantallas grandes -->
 <style>
   @media only screen and (min-width: 64em) {
-    #main {
+    .masthead__inner-wrap,
+    .initial-content,
+    #main,
+    .page,
+    .page__inner-wrap,
+    .archive,
+    .page__footer footer {
       max-width: 1200px !important;
       margin-left: auto !important;
       margin-right: auto !important;
       padding-left: 2em !important;
       padding-right: 2em !important;
+      box-sizing: border-box !important;
     }
   }
 </style>
